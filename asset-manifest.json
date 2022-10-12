@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/runaway-submit-button/static/css/main.ca9bd4b3.css",
+    "main.js": "/runaway-submit-button/static/js/main.21f7827a.js",
+    "index.html": "/runaway-submit-button/index.html",
+    "main.ca9bd4b3.css.map": "/runaway-submit-button/static/css/main.ca9bd4b3.css.map",
+    "main.21f7827a.js.map": "/runaway-submit-button/static/js/main.21f7827a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ca9bd4b3.css",
+    "static/js/main.21f7827a.js"
+  ]
+}
